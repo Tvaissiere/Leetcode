@@ -1,0 +1,1 @@
+Just a place to store my leetcode solutions where I can possible go back and improve them at a later date or relearn certain languages by looking at code the way my brain naturally thinks to outline it.
